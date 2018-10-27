@@ -1,3 +1,2 @@
 # Stock-prediction
-Yahoo_fin API
-Stock Prediction using Yahoo Fin
+Stock Prediction using Yahoo_fin API
